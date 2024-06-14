@@ -1,8 +1,8 @@
 {
-  "homepage" : "https://midlifemechanicus.github.io/messing-about-react",
   "name": "messing-about-react",
   "private": true,
   "version": "0.0.0",
+  "homepage" : "https://midlifemechanicus.github.io/messing-about-react",
   "type": "module",
 
   "scripts": {
